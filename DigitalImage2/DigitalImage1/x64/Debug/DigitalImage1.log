@@ -1,0 +1,10 @@
+﻿  DigitalImage2.cpp
+c:\users\chpb5\source\repos\digitalimage2\digitalimage1\digitalimage2.cpp(30): warning C4101: 'k': unreferenced local variable
+c:\users\chpb5\source\repos\digitalimage2\digitalimage1\digitalimage2.cpp(216): warning C4101: 'k': unreferenced local variable
+c:\users\chpb5\source\repos\digitalimage2\digitalimage1\digitalimage2.cpp(248): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\chpb5\source\repos\digitalimage2\digitalimage1\digitalimage2.cpp(280): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\chpb5\source\repos\digitalimage2\digitalimage1\digitalimage2.cpp(274): warning C4101: 'gauss': unreferenced local variable
+c:\users\chpb5\source\repos\digitalimage2\digitalimage1\digitalimage2.cpp(264): warning C4101: 'j': unreferenced local variable
+c:\users\chpb5\source\repos\digitalimage2\digitalimage1\digitalimage2.cpp(264): warning C4101: 'i': unreferenced local variable
+c:\users\chpb5\source\repos\digitalimage2\digitalimage1\digitalimage2.cpp(261): warning C4101: 'fp': unreferenced local variable
+  DigitalImage1.vcxproj -> C:\Users\chpb5\source\repos\DigitalImage2\x64\Debug\DigitalImage2.exe
